@@ -1,0 +1,3 @@
+/home/hazem/STLs/STLs_Backery/build/CMakeFiles/Vector_Project.dir
+/home/hazem/STLs/STLs_Backery/build/CMakeFiles/edit_cache.dir
+/home/hazem/STLs/STLs_Backery/build/CMakeFiles/rebuild_cache.dir
